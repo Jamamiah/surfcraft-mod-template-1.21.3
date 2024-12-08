@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "surfcraft-mod:item/jam_spacetime_music_disc"
+  }
+}

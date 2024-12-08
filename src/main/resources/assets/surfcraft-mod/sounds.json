@@ -1,0 +1,10 @@
+{
+  "jam_spacetime": {
+    "sounds": [
+      {
+        "name": "surfcraft-mod:jam_spacetime",
+        "stream": true
+      }
+    ]
+  }
+}
